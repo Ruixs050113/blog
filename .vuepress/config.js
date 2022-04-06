@@ -141,8 +141,8 @@ module.exports = {
         "en": "Jinser unprovoked fifty strings, one string and one pillar Sihua Nian",
       },
       {
-        "zh": "林深时见鹿，海蓝时见鲸",
-        "en": "Deer are seen when the forest is deep, and whales are seen when the sea is blue",
+        "zh": "我本将心向明月，奈何明月照沟渠",
+        "en": "I would have turned my heart to the bright moon, but the bright moon shone in the ditch",
       },
       {
         "zh": "青春啊 更多应该是书香",
