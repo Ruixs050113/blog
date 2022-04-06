@@ -127,7 +127,27 @@ module.exports = {
       {
         "zh": "醉后不知天在水，满船清梦压星河",
         "en": "After getting drunk, I don't know that the sky is in the water, and the ship is full of dreams to suppress the galaxy",
-      }
+      },
+      {
+        "zh": "相寻梦里路，飞雨落花中",
+        "en": "Looking for the road in their dreams, flying rain falls in the flowers",
+      },
+      {
+        "zh": "最是人间留不住，朱颜辞镜花辞树",
+        "en": "The most is that the human world cannot be retained, zhu Yan resigns the mirror flower and the tree",
+      },
+      {
+        "zh": "锦瑟无端五十弦，一弦一柱思华年",
+        "en": "Jinser unprovoked fifty strings, one string and one pillar Sihua Nian",
+      },
+      {
+        "zh": "林深时见鹿，海蓝时见鲸",
+        "en": "Deer are seen when the forest is deep, and whales are seen when the sea is blue",
+      },
+      {
+        "zh": "青春啊 更多应该是书香",
+        "en": "Youth ah, more should be the fragrance of books",
+      },
     ],
     "covers": [
       '/R5.png',
