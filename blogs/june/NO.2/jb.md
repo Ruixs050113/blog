@@ -1,6 +1,6 @@
 ---
 title: 关于我又像树叶又像不知名男人这件事
-data: 2022-04-04
+date: 2022-04-04
 cover: https://cdn.jsdelivr.net/gh/Ruixs050113/blog-img/logo.png
 tags:
  - blog

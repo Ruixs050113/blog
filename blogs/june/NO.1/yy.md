@@ -1,6 +1,6 @@
 ---
 title: 我嗦的氏蒸的
-data: 2022-04-03
+date: 2022-04-03
 cover: https://cdn.jsdelivr.net/gh/Ruixs050113/blog-img/壁纸.jpg
 tags:
  - blog 
