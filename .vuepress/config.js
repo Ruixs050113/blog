@@ -145,8 +145,8 @@ module.exports = {
         "en": "I would have turned my heart to the bright moon, but the bright moon shone in the ditch",
       },
       {
-        "zh": "青春啊 更多应该是书香",
-        "en": "Youth ah, more should be the fragrance of books",
+        "zh": "明月不暖九旧年事，春风无意问良辰",
+        "en": "The bright moon does not warm the nine old years, and the spring wind has no intention of asking for a good day",
       },
     ],
     "covers": [
