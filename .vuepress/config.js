@@ -105,7 +105,7 @@ module.exports = {
     "authorAvatar": "/R1.png",
     "record": "你的备案号 ", //icp备案
     "startYear": "2020",
-    "info": "本人17,四肢健全,身体健康,会玩智能手机,下雨天会往回跑,从小独立呼吸,到饭点会饿,会单独吃饭,早上会不想起床,未来可期。",
+    "info": "入了深冬了，北风萧萧，我在风里站了很久，自是等不来了，也罢，路总是要有人先走的，大抵就到这里了",
     "socials":{
       "github" : "https://github.com/Ruixs050113", //github
       "gitlub" : false, //gitlub
