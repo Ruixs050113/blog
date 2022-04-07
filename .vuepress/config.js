@@ -154,7 +154,7 @@ module.exports = {
       '/R6.png',
       '/R7.png',
       '/R8.png',
-      '/R11.png',
+      '/R25.png',
       '/R13.png',
       '/R19.png'
     ],
