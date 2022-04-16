@@ -129,8 +129,8 @@ module.exports = {
         "en": "After getting drunk, I don't know that the sky is in the water, and the ship is full of dreams to suppress the galaxy",
       },
       {
-        "zh": "相寻梦里路，飞雨落花中",
-        "en": "Looking for the road in their dreams, flying rain falls in the flowers",
+        "zh": "逢人不说人间事，便是人间无事人",
+        "en": "Whenever people do not say human affairs, they are people who have nothing to do in the world",
       },
       {
         "zh": "最是人间留不住，朱颜辞镜花辞树",
@@ -145,8 +145,8 @@ module.exports = {
         "en": "I would have turned my heart to the bright moon, but the bright moon shone in the ditch",
       },
       {
-        "zh": "明月不暖九旧年事，春风无意问良辰",
-        "en": "The bright moon does not warm the nine old years, and the spring wind has no intention of asking for a good day",
+        "zh": "明月不暖旧年事，春风无意问良辰",
+        "en": "The bright moon does not warm up the old years, and the spring wind has no intention of asking for a good day",
       },
     ],
     "covers": [
