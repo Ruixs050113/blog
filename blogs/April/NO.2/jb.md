@@ -1,5 +1,5 @@
 ---
-title: 想写点什么
+title: 关于疫情
 date: 2022-04-04
 cover: https://cdn.jsdelivr.net/gh/Ruixs050113/blog-img/R17.png
 tags:
