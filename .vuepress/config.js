@@ -150,13 +150,13 @@ module.exports = {
       },
     ],
     "covers": [
+      '/R3.png',
       '/R5.png',
-      '/R6.png',
-      '/R7.png',
-      '/R8.png',
-      '/R25.png',
       '/R13.png',
-      '/R19.png'
+      '/R19.png',
+      '/R21.png',
+      '/R23.png',
+      '/R27.png'
     ],
     "codeTheme": "tomorrow"
   },
