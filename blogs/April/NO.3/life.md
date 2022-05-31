@@ -5,7 +5,7 @@ cover: https://cdn.jsdelivr.net/gh/Ruixs050113/blog-img/R27.png
 tags:
  - 活着
 categories:
- - emo日常
+ - 开e日常
 ---
 
 # 我记得这花香 便对得起这时光
